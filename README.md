@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aks000013/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/aks000013/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/aks000013/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
