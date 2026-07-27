@@ -5,8 +5,9 @@ class Solution:
         for i in range(len(nums)):
             num=nums[i]
 
-            if left_sum ==(total_sum-left_sum-num):
+            right_sum = total_sum - left_sum - num
+            
+            if left_sum == right_sum:
                 return i
-
-            left_sum += num
+            left_sum +=num
         return -1
