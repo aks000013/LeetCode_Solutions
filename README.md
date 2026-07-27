@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aks000013/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aks000013/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aks000013/LeetCode_Solutions/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aks000013/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/aks000013/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aks000013/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/aks000013/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/aks000013/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aks000013/LeetCode_Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aks000013/LeetCode_Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
