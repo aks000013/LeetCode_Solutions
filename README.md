@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aks000013/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aks000013/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/aks000013/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aks000013/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aks000013/LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
