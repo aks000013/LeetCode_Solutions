@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aks000013/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aks000013/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aks000013/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/aks000013/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks000013/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/aks000013/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/aks000013/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aks000013/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/aks000013/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
