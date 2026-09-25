@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aks000013/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aks000013/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aks000013/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aks000013/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aks000013/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aks000013/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks000013/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aks000013/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aks000013/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/aks000013/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/aks000013/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aks000013/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aks000013/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aks000013/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aks000013/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aks000013/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aks000013/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aks000013/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/aks000013/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
